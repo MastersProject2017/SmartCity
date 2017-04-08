@@ -1,0 +1,3 @@
+"rules","support","confidence","lift"
+"{Maybelline New York $2/1 brow} => {shadow or liner product}",0.0015533118828359,10,643.785714285714
+"{shadow or liner product} => {Maybelline New York $2/1 brow}",0.0015533118828359,10,643.785714285714
